@@ -1,0 +1,3 @@
+GetCurrentPriceIntent current price
+GetCurrentPriceIntent price
+GetCurrentPriceIntent how much
